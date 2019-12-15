@@ -1,0 +1,81 @@
+.navbar {
+    background-color: rgba(109, 76, 65, 0.969);
+    color: white;
+}
+
+.navbar .logo {
+    max-width: 250px;
+}
+
+.navbar-nav img {
+    max-width: 25px;
+    margin-right: 50px;
+}
+
+.navbar i {
+    color: #2B2B2B;
+
+}
+
+.navbar form {
+    margin-left: 130px;
+}
+
+.navbar-page a {
+    color: white;
+    font-weight: 500;
+}
+
+.content {
+    max-width: 1366px;
+}
+
+.content .main-pict {
+    max-width: 1366px;
+    padding-top: 28px;
+    padding-bottom: 70px;
+}
+
+.showcase {
+    padding: 0;
+    margin: 0;
+}
+
+.showcase .col {
+    padding: 0;
+}
+
+.showcase img {
+    max-width: 100%;
+}
+
+.showcase p {
+    text-align: center;
+    margin: 0;
+    font-weight: 500;
+}
+
+.testimoni {
+    background-color: #EDDBCD;
+    margin-top: 50px;
+}
+
+.testimoni .quotes {
+    padding: 70px 60px 70px 90px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #6D4C41;
+}
+
+footer p {
+    font-weight: 500;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+footer .created {
+    text-align: end;
+}
